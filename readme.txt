@@ -1,0 +1,9 @@
+https://www.w3schools.com/html/html_tables.asp
+https://www.w3schools.com/jsref/coll_table_cells.asp
+https://stackoverflow.com/questions/14643617/create-table-using-javascript
+http://htmlcolorcodes.com/color-picker/
+https://www.w3schools.com/jsref/met_win_alert.asp
+https://www.w3schools.com/jsref/met_win_prompt.asp
+https://stackoverflow.com/questions/37589777/how-to-add-click-event-to-table-cell-in-this-code
+https://vignette.wikia.nocookie.net/videogamefanon/images/c/cf/Maxas_8-bit-kirby.jpg/revision/latest?cb=20120820223538
+https://pre00.deviantart.net/ca01/th/pre/f/2012/027/6/6/8_bit_pokeball_by_nathanmarino-d4nsey6.png

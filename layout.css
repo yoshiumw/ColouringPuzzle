@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+@font-face{
+  font-family: "ya";
+  src: url("font.ttf") format("truetype");
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  word-wrap: break-word;
+  font-family: monospace;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  word-wrap: break-word;
+  background-color: white;
+  text-align: center;
+}
+
+
+button {
+  background-color: blue;
+  border: none;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+#top {
+  height: 5vh;
+}
+
+#puzz {
+  padding-top : 3vh;
+}
+
+
+#picker > button {
+  background-color: darkgray;
+  color: black;
+  border: 1px solid black;
+  font-family: monospace;
+}
