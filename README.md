@@ -1,16 +1,16 @@
 # HTML Colouring Puzzle
 ## Description
-A colouring puzzle game created with HTML, CSS, and Javascript for CMPT218 at Simon Fraser University.
+A colouring puzzle game created with HTML, CSS, and JavaScript for CMPT218 at Simon Fraser University.
 
 ## Installation
-Clone the repository using git or download the .zip from [here.](https://github.com/yoshiumw/ColouringPuzzle/archive/master.zip)
+Clone the repository using Git or download the .zip from [here.](https://github.com/yoshiumw/ColouringPuzzle/archive/master.zip)
 Unzip the archive ```master.zip```. 
 ## Usage
-Open ```asn1.html``` using your favourite browser.
+Open ```asn1.html``` using an internet browser.
 ## Gameplay
 Numbers on the margins correspond to the amount of cells that need to be filled in for each row or column. (ex. "1 1 2" - 1 coloured in block followed by a break then 1 coloured in block then a break then 2 consecutive coloured in blocks.)
 
-Click on cells and when you think you are complete hit the "Correct?" button to check answer.
+Click on the cells and when you think you are complete hit the "Correct?" button to check answer.
 
 ## Features
 - Uses HTML, CSS, and Javascript.
@@ -19,9 +19,9 @@ Click on cells and when you think you are complete hit the "Correct?" button to 
 
 - Hints.
 
-- "Answer" button to access answer key.
+- "Answer" button to access the answer key.
 
-- Ability to reset the puzzle.
+- Can reset the puzzle.
 
 - Clickable table cells.
 
